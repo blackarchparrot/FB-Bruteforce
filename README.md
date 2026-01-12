@@ -19,9 +19,9 @@ https://github.com/user-attachments/assets/47d83400-8340-4caf-9c81-e01537f5ada8
 >> python3 -m pip install mechanize
 >> python3 attack.py or python script.py
 ```
-**Visit my Instagram profile for more informations**
+**Visit my Instagram profile for more informations**<br>
 <a href="https://www.instagram.com/aftab._.sunny/">aftab._.sunny</a>
-click here ☝🏻☝🏻☝🏻
+click here 
 
 ## Protection Against Attacker
 * Use Strong Password(which contains standard password chars + longest as possible)
