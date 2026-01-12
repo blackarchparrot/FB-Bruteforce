@@ -28,4 +28,4 @@ click here👆🏻👆🏻👆🏻
 * Use 2F Authentication.
 * Make location based login(+browser based)
 
-Thanks for trying.
+Thanks.
